@@ -14,3 +14,6 @@ face_generation/data/
 
 */.floyd*
 
+# ignore PyCharm files
+.cache/
+.idea/
